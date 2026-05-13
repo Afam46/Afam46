@@ -1,6 +1,17 @@
-# 💫 Привет, меня зовут Ислам!
-Full-Stack Разработчик (Laravel & Vue.js) 🚀<br><br>Создаю современные и эффективные веб-приложения. От серверной логики до интерактивного интерфейса.<br>Студент КНИТУ-КХТИ (Казань). Стремлюсь к постоянному развитию в IT, активно изучаю новые технологии и ищу возможности для применения своих навыков в реальных проектах.<br>Готов к интересным задачам и совместному росту!
-<br><br>Резюме: https://docs.google.com/document/d/1GGLN9UGCBC8GcwwsDKYgswuGNz_Wt-_DCb9m1qt8vTo/edit?usp=sharing
+# 👋 Привет, я Ислам
 
-# 💻 Технологии:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Full-Stack разработчик (Laravel + Vue.js)** из Казани.  
+Студент КНИТУ-КХТИ, 1 курс
+
+## 🛠 Мой стек
+![PHP](https://img.shields.io/badge/PHP-8.1-blue) ![Laravel](https://img.shields.io/badge/Laravel-11-red) ![Vue](https://img.shields.io/badge/Vue-3-green) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue) ![Redis](https://img.shields.io/badge/Redis-red) ![Git](https://img.shields.io/badge/Git-black) ![Linux](https://img.shields.io/badge/Linux-ubuntu)
+
+## 🔥 Что я умею
+- Кэширование и очереди (Redis)
+- Realtime-обновления (Laravel Reverb, WebSockets)
+- REST API, авторизация через Laravel Sanctum
+- Развертывание проектов на VPS (Ubuntu, Nginx)
+
+## 📫 Связаться со мной
+- Telegram: [@afamka](https://t.me/afamka)
+- Резюме: [ссылка](https://docs.google.com/document/d/1GGLN9UGCBC8GcwwsDKYgswuGNz_Wt-_DCb9m1qt8vTo/edit?usp=sharing)
